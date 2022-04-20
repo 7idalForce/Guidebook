@@ -1,7 +1,7 @@
 # EE-Wiki内部向导指南
 
 > ## 更新日志
->
+> 
 > 2022-4-20 *新建指南 - AokIvan*
 
 ### 1.需要安装的前置软件
@@ -15,6 +15,3 @@
 - [ ] [Typora](https://typoraio.cn/)  - MarkDown语言的文本编辑器，是市面上最简洁优雅的了（不过VSCode也可以编辑预览，所以非必要软件）
 - [ ] [NodeJS](http://nodejs.cn/)  - Hexo运行环境(EE-Wiki不需要，Hexo是用来做个人博客的)
 - [ ] [Hexo](https://hexo.bootcss.com/)  - 个人博客的载体，博客模板平台
-
- 
-
