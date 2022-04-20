@@ -6,7 +6,7 @@
 
 ### 1.需要安装的前置软件
 
-*注：打勾为必选，单击蓝色超链接跳转官网*
+*注：打勾为必要的，单击蓝色超链接跳转官网*
 
 - [x] [VSCode](https://code.visualstudio.com/) - IDE软件，微软出品，用于管理与编辑文件、使用终端
 - [x] [Python39(包括pip)](https://www.python.org/)  - MKdocs的运行环境
